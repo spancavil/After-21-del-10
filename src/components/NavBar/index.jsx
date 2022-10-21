@@ -18,7 +18,7 @@ const NavBar = () => {
             <li>
                 <a href="#about">About</a>
             </li>
-            <CartWidget/>
+            <CartWidget />
         </ul>
     );
 };
